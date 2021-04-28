@@ -123,6 +123,6 @@ def makexml(picPath,txtPath,xmlPath='./Annotations'):  # txt所在文件夹路�
 
 
 if __name__ == '__main__':
-    picPath='./save_pic'
+    picPath='./JPEGImages'
     txtPath='./save_txt'
     makexml(picPath, txtPath)
